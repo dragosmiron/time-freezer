@@ -1,5 +1,9 @@
 # Time-Freezer
 
+##How to install:
+
+	$gem install time-freezer
+
 ##How to use:
 
 ```ruby
