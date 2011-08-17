@@ -1,5 +1,3 @@
-module Time
-  module Freezer
-    VERSION = "0.0.1"
-  end
+module TimeFreezer
+    VERSION = "0.0.3"
 end
